@@ -1,0 +1,104 @@
+127.0.0.1   localhost
+
+#Prevent the device to contact Google all the time
+127.0.0.1   mtalk.google.com
+127.0.0.1   reports.crashlytics.com
+127.0.0.1   settings.crashlytics.com
+127.0.0.1   android.clients.google.com
+127.0.0.1   www.googleapis.com
+127.0.0.1   www.googleadservices.com
+127.0.0.1   clients3.google.com
+127.0.0.1   play.googleapis.com
+127.0.0.1   www.gstatic.com
+127.0.0.1   ssl.google-analytics.com
+127.0.0.1   id.google.com
+127.0.0.1   clients1.google.com
+127.0.0.1   clients2.google.com
+
+#Amazon is really nosy, too...
+127.0.0.1   www.amazon.com
+127.0.0.1   s.amazon-adsystem.com
+127.0.0.1   api.amazon.com
+127.0.0.1   device-metrics-us.amazon.com
+127.0.0.1   device-metrics-us-1.amazon.com
+127.0.0.1   device-metrics-us-2.amazon.com
+127.0.0.1   device-metrics-us-3.amazon.com
+127.0.0.1   device-metrics-us-4.amazon.com
+127.0.0.1   device-metrics-us-5.amazon.com
+127.0.0.1   device-metrics-us-6.amazon.com
+127.0.0.1   device-metrics-us-7.amazon.com
+127.0.0.1   device-metrics-us-8.amazon.com
+127.0.0.1   device-metrics-us-9.amazon.com
+127.0.0.1   device-metrics-us-10.amazon.com
+127.0.0.1   device-metrics-us-11.amazon.com
+127.0.0.1   device-metrics-us-12.amazon.com
+127.0.0.1   mads.amazon.com
+127.0.0.1   aax-us-east.amazon-adsystem.com
+127.0.0.1   aax-us-west.amazon-adsystem.com
+127.0.0.1   aax-eu.amazon-adsystem.com
+
+#No need for Opera to call home all the time
+127.0.0.1   mini5-1.opera-mini.net
+127.0.0.1   sitecheck1.opera.com
+127.0.0.1   sitecheck2.opera.com
+127.0.0.1   thumbnails.opera.com
+
+#Some more 'services' I don't need
+127.0.0.1   audioscrobbler.com
+127.0.0.1   weather.yahooapis.com
+127.0.0.1   query.yahooapis.com
+127.0.0.1   platform.twitter.com
+127.0.0.1   linkedin.com
+
+#Prevent automatic OS updates for a number of vendors
+127.0.0.1   fota.cyngn.com
+127.0.0.1   account.cyanogenmod.org
+127.0.0.1   mdm.asus.com
+127.0.0.1   mdmnotify1.asus.com
+127.0.0.1   updatesec.sonymobile.com
+127.0.0.1   releasenotes.sonymobile.com
+127.0.0.1   update.sonymobile.com
+127.0.0.1   api-x.sonymobile.com
+127.0.0.1   api.t-mobile-favourites.net
+
+#Ad blocking
+127.0.0.1   ad8.adfarm1.adition.com
+127.0.0.1   googleads.g.doubleclick.net
+127.0.0.1   stats.g.doubleclick.net
+127.0.0.1   mobile.smartadserver.com
+127.0.0.1   www.google-analytics.com
+127.0.0.1   pagead2.googlesyndication.com
+127.0.0.1   ads.stickyadstv.com
+127.0.0.1   pixel.rubiconproject.com
+127.0.0.1   t1.visualrevenue.com
+127.0.0.1   beacon.krxd.net
+127.0.0.1   rtb.metrigo.com
+127.0.0.1   c.metrigo.com
+127.0.0.1   ad.zanox.com
+127.0.0.1   cm.g.doubleclick.net
+127.0.0.1   ib.adnxs.com
+127.0.0.1   ih.adscale.de
+127.0.0.1   ad.360yield.com
+127.0.0.1   ssp-csynch.smartadserver.com
+127.0.0.1   ad.yieldlab.net
+127.0.0.1   dis.crieto.com
+127.0.0.1   rtb.eanalyzer.de
+127.0.0.1   connect.facebook.net
+127.0.0.1   b.scorecardresearch.com
+127.0.0.1   sb.scorecardresearch.com
+127.0.0.1   ads.newtentionassets.net
+127.0.0.1   ak.sascdn.com
+127.0.0.1   fastly.bench.cedexis.com
+127.0.0.1   probes.cedexis.com
+127.0.0.1   x.ligatus.com
+127.0.0.1   d.ligatus.com
+127.0.0.1   a.visualrevenue.com
+127.0.0.1   radar.cedexis.com
+127.0.0.1   www.googletagservices.com
+127.0.0.1   pubads.g.doubleclick.net
+127.0.0.1   prophet.heise.de
+127.0.0.1   farm.plista.com
+127.0.0.1   static.plista.com
+127.0.0.1   video.plista.com
+127.0.0.1   tag.yoc-adserver.com
+
