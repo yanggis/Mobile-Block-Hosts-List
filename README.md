@@ -10,6 +10,8 @@ The hosts.blocked file can be downloaded as follows:
 
 wget https://raw.githubusercontent.com/martinsauter/Mobile-Block-Hosts-List/master/hosts.blocked
 
-Note: Unfortunately, https does not seem to be supported by popular re-compiles of wget for Android so a DIRECT download is not possible at the moment.
+Alternatively, a script file can be used to automate the process. Currently, script files for the following platforms are availble in the 'update-scripts' folder:
+
+ * 'hupdate.sh' for rooted Android devices
 
 
