@@ -10,8 +10,12 @@ The hosts.blocked file can be downloaded as follows:
 
 wget https://raw.githubusercontent.com/martinsauter/Mobile-Block-Hosts-List/master/hosts.blocked
 
-Alternatively, a script file can be used to automate the process. Currently, script files for the following platforms are availble in the 'update-scripts' folder:
+Alternatively, a script file can be used to automate the process. Currently, script files for ROOTED Android are provided in the 'update-scripts' folder:
 
- * 'hupdate.sh' for rooted Android devices
+ * 'hupdate.sh' --> download 'hosts' file with blocking information and replace original 'hosts'
+
+ * 'ho.sh' --> replace the current 'hosts' file with the original 'hosts' file that does not have any blocking information
+
+ * 'hb.sh' --> replace the current 'hosts' file with a previously downloaded 'hosts.blocked' file.
 
 
